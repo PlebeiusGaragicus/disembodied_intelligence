@@ -1,2 +1,4 @@
-pvporcupine
-pyaudio
+# pvporcupine
+# pyaudio
+wheel
+pocketsphinx
